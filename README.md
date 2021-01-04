@@ -1,8 +1,6 @@
 # Blog by Syed Farhan Hussain
 
-![Automatic build](https://github.com/farhan1988/blog/workflows/Automatic%20build/badge.svg?branch=master&event=status)
-
-[![Devices Mockup](https://raw.githubusercontent.com/cotes2020/jekyll-theme-chirpy/master/assets/img/sample/devices-mockup.png)](https://chirpy.cotes.info)
+![Automatic build](https://github.com/farhan1988/blog/workflows/Automatic%20build/badge.svg)
 
 ## Table of Contents
 
